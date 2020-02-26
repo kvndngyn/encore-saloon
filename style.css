@@ -1,0 +1,32 @@
+.ui.topmenu.menu {
+  background-color: #e2231a;
+  margin: 0px 0px 0px 0px;
+  border-radius: 0px;
+  height: 80px;
+}
+
+.ui.topmenu.menu, .ui.right.item, .ui.dropdown.item, .text, .item, .menu {
+  background-color: #e2231a !important;
+  color: #ffffff !important;
+  font-family: Arvo;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: .075em;
+  line-height: 2em;
+}
+
+.footer {
+  background-color: #e2231a !important;
+  color: #ffffff !important;
+  font-family: Arvo;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: .075em;
+  line-height: 2em;
+}
+
+.footer-one {
+  padding: 80px 8% !important;
+}
